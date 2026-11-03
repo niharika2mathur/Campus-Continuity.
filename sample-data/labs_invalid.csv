@@ -1,0 +1,4 @@
+code,name,building,capacity,max_team_size,equipment,status,reason
+LAB-OK,Good Lab,Block E,3,5,linux,AVAILABLE,
+LAB-NEG,Negative capacity,Block E,-4,5,linux,AVAILABLE,
+LAB-BAD,Bad status,Block E,3,5,linux,BROKEN,

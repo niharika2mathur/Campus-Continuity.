@@ -1,0 +1,3 @@
+request_id,code,name,size,requirements,duration_minutes,eligible_slots
+R-FLEX,FLEX,Flexible team,3,,60,S1;S2
+R-RIGID,RIGID,Rigid team,3,,60,S1

@@ -1,0 +1,9 @@
+code,name,building,capacity,max_team_size,equipment,status,reason
+LAB-AI1,AI Research Lab,Block A,1,6,gpu;linux;matlab,AVAILABLE,
+LAB-AI2,Deep Learning Lab,Block A,1,6,gpu;linux,AVAILABLE,
+LAB-NET,Networks Lab,Block B,2,5,linux;oscilloscope,AVAILABLE,
+LAB-EMB,Embedded Systems Lab,Block B,1,4,fpga;oscilloscope;linux,AVAILABLE,
+LAB-CAD,CAD & Fabrication Lab,Block C,1,6,cad;3d-printer,AVAILABLE,
+LAB-VR,Immersive Media Lab,Block C,1,5,vr-kit;gpu,AVAILABLE,
+LAB-GEN1,General Computing 1,Block D,3,6,linux;matlab,AVAILABLE,
+LAB-GEN2,General Computing 2,Block D,3,6,linux,AVAILABLE,

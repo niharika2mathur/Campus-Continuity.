@@ -1,0 +1,9 @@
+request_id,code,name,size,requirements,duration_minutes,eligible_slots
+REQ-2026-0001,TEAM-NEW1,Duplicate of existing request,3,linux,90,
+REQ-ERR-0002,TEAM-NEW2,Negative size,-2,gpu,90,
+REQ-ERR-0003,TEAM-NEW3,Not a number,abc,gpu,90,
+REQ-ERR-0004,TEAM-NEW4,Needs hardware nobody owns,3,quantum-annealer,90,
+REQ-ERR-0005,TEAM-NEW5,Valid team,3,linux,60,MON-09;TUE-09
+REQ-ERR-0005,TEAM-NEW6,Duplicate id inside the file,3,linux,60,
+REQ-ERR-0007,TEAM-005,Duplicate team code,3,linux,60,
+,TEAM-NEW8,Missing request id,3,linux,60,
